@@ -27,17 +27,11 @@ I'm currently exploring Python and working on enhancing my skills in
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([Link to your LinkedIn](https://www.linkedin.com/in/grace-yao-51304b139/)
-- [Email]: gyao1487@gmail.com(mailto:gyao1487@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/grace-yao-51304b139/)
+- Email:gyao1487@gmail.com(mailto:gyao1487@gmail.com)
 - Personal Website: Under construction! Will be up and running soon.
 
 Thanks for visiting my profile! 😊 Feel free to reach out if you'd like to collaborate!
-
-
-
-
-
-
 
 
 <!--
