@@ -23,7 +23,7 @@ Here are some recent projects:
 
 ## 🌱 Currently Learning
 
-I'm currently exploring Python and working on enhancing my skills in 
+I'm currently learning Python! 
 
 ## 📫 Let's Connect
 
