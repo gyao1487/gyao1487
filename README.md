@@ -17,7 +17,7 @@ Here are some recent projects:
    - Platform connecting users to nonprofits and volunteering opportunities. Nonprofits can post upcoming events and request volunteers, and users will be able to sign up to these volunteer opportunities and connect with the nonprofits.
    - Built with Node.js, React, MongoDB, Express.js, TailwindCSS
 
-2. [Bandwagon](bandwagon-platform.herokuapp.com)
+2. [Bandwagon](https://bandwagon-platform.herokuapp.com/)
    - App connecting both live music enthusiasts and aspiring musicians alike. Users can use this app to discover local up-and-coming artists and find local live music shows to attend. Music artists are able to utilize Bandwagon to reach new audiences, build a following, and advertise their upcoming shows/music. 
    - Built with Node.js, MySQL, Handlebars.js
 
