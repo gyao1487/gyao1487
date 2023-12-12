@@ -1,5 +1,5 @@
 # Hello, world! It's Grace (they/them)! 👋
-Chicago-based developer and idealist, hoping to change the world one code block at a time! Interested Outside of coding, I love video games, digital art, nerdy discussions, and cats! 
+Chicago-based developer and idealist, hoping to change the world one code block at a time! Outside of coding, I love video games, digital art, nerdy discussions, and cats! 
 
 ## 🔧 Technologies & Tools
 
