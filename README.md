@@ -1,11 +1,6 @@
 # Hello, world! It's Grace (they/them)! 👋
 Chicago-based developer and idealist, hoping to change the world one code block at a time! Outside of coding, I love video games, digital art, nerdy discussions, and cats! 
 
-
-[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyao1487)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## 🔧 Technologies & Tools
 
 - Programming Languages: JavaScript,  TypeScript, Python (in progress), Bash
